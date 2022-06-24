@@ -230,7 +230,7 @@ Developed by: G.Gunaseelan
 RegisterNumber: 212221230031
 # Output:
 ![img](Output%201.png)
-1[img](output%202.png)
+![img](output%202.png)
  
 
  
